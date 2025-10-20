@@ -1,5 +1,5 @@
 # 🌏 JFT & SSW Simulation – Full System Documentation  
-**Full English Version**
+🔗 **Live Webistes:** [https://simulasijft.com](https://simulasijft.com)
 
 ---
 
